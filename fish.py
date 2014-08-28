@@ -7,6 +7,7 @@ import random
 import pygame 
 import math
 
+
 class FishDesc():
 
 	def __init__(self,initval = None,name='var'):
